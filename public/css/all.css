@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.poster-box{    
+    height: 517px;
+    width: 28%;
+    border: 1px solid;
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.image-div{
+
+    height: 56%;
+}
+.h1{   
+    font-weight: 900;
+    font-size: 35px;
+    background-image: url(https://thumbs.dreamstime.com/z/indian-spices-spicy-seasonings-bowls-top-view-flat-lay-spice-banner-indian-spices-spicy-seasonings-bowls-146572405.jpg?ct=jpeg);
+    background-size: contain;
+    background-clip: text;
+    color: transparent;}
+.p{
+    font-weight: 700;
+    letter-spacing: .5px;
+}
+button{
+
+    border-radius: 24px;
+    height: 35px;
+    width: 131px;
+    color: white;
+    background: black;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 12px;
+
+}
+.number{
+
+    font-family: inherit;
+    font-size: 27px;
+    margin-top: 12px;
+    font-weight: 700;
+}
+.address{
+    margin-top: 16px;
+    font-size: 18px;
+    font-weight: 600;
+}
